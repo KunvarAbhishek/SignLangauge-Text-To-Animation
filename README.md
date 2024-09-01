@@ -1,11 +1,17 @@
-# Indian Sign Language - Text to Sign Animation
 
 **IMPORTANT:** All rights to this project, including its ideas and implementation, are copyright to Abhishek Gupta. Any use of this project or its ideas without explicit permission from the Abhishek Gupta is strictly prohibited and may result in serious consequences.
 
-## Demo Video
+# Indian Sign Language - Text to Sign Animation
+
 The **Indian Sign Language - Text to Sign Animation** project is a tool for converting text into sign language animations. Built with **Node.js, MongoDB, HTML, CSS, and JavaScript**, this application enables users to sign up, log in, convert text to sign language animations, upload new sign videos, and view their upload history.
 
+## Demo Video
 
+Watch the demo video to get a quick overview of how the application works:
+
+https://github.com/user-attachments/assets/01f3cb8c-8a47-4422-a084-a8eabe6e63d0
+
+---
 
 ## Table of Contents
 
@@ -27,13 +33,7 @@ The **Indian Sign Language - Text to Sign Animation** project is a tool for conv
 This project provides a user-friendly interface for converting text into sign language animations. Users can sign up, log in, interact with a text-to-sign feature, upload new sign videos, and manage their uploaded content. MongoDB is used to store user and content data.
 
 ---
-## Demo Video
 
-Watch the demo video to get a quick overview of how the application works:
-
-https://github.com/user-attachments/assets/01f3cb8c-8a47-4422-a084-a8eabe6e63d0
-
----
 ## Features
 
 ### Landing Page
